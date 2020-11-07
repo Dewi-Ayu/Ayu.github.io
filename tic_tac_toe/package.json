@@ -1,8 +1,8 @@
 {
   "name": "react_tic_tac_toe",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://clarity-89.github.io/React_tic_tac_toe/",
+  "private": false,
+  "homepage": "https://dewi-ayu.github.io/React_tic_tac_toe/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "papercss": "^1.8.1",
