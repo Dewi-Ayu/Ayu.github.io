@@ -11,8 +11,8 @@ function App() {
       </Main>
       <Footer>
         <FooterInner>
-          Modified by {" "}<a href="https://github.com/Dewi-Ayu/React_tic_tac_toe-master">Dewi Ayu Anggraini_1119101756</a><br/>
-          Thanks to{" "}
+          Dimodifikasi oleh {" "}<a href="https://github.com/Dewi-Ayu/React_tic_tac_toe-master">Dewi Ayu Anggraini_1119101756</a><br/>
+          Terima Kasih kepada {" "}
           <a href="https://github.com/Clarity-89/React_tic_tac_toe">Github</a>
         </FooterInner>
       </Footer>
